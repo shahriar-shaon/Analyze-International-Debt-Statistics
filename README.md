@@ -6,8 +6,7 @@ Total amount of debt that is owed by the countries listed in the dataset.
  Highest debt indicator category.
  Average debt and total debt according to different country.
  Country wise highest debt in one indicator.
-# You can see the visualition in the uploaded pdf as well as 
- in the tableau link: https://public.tableau.com/app/profile/shahriar4560 #
+# You can see the visualition in the uploaded pdf as well as in the tableau link: https://public.tableau.com/app/profile/shahriar4560 #
 
 # About Data set
 # Context
